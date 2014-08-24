@@ -9,6 +9,10 @@ body {
   padding-left: 100px;
   height: 500px;
 }
+.instructions{
+	float:right;
+	padding-right: 10%;
+}
  
 .hadouken, .ryu-ready, .ryu-still, .ryu-throwing {
   background-repeat: no-repeat;
