@@ -1,5 +1,8 @@
 $(document).ready(function() {
-
+        $('.ryu-cool').hide();
+        $('ryu-ready').hide();
+        $('.ryu-throwing').hide();
+        
     $('.ryu').mouseenter(function() {
         $('.ryu-still').hide();
         $('.ryu-cool').hide();
